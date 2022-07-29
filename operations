@@ -1,0 +1,11 @@
+---
+Book:
+  book_list: ["AWS", "Linux", "Devops"]
+  price: 1500_each
+  offered_price: 1000_each
+  authorname:
+    - Deepak_sir
+    - Akshay sir
+    - vyankatesh sir
+    - dipanshu sir
+...
